@@ -1,0 +1,29 @@
+.img{
+    height: 150px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.media{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content{
+    margin-left: 2vw;
+}
+
+.control{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-top: 2vh;
+    margin-left: 2vw;
+    padding-inline: 2vw;
+}
+
+.media-right{
+    margin-left: 10vw;
+}
